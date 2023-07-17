@@ -18,8 +18,12 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js" integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS" crossorigin="anonymous"></script>
  
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#"><span class="text-warning">Prestige</span>City</a> 
+   <div class="container-fluid"> 
+
+   <!-- added logo -->
+
+    <div class="logo" ><img src="img/prestige_logo.jpeg" alt="LOGO" align:left></div>
+   <!--<a class="navbar-brand" href="#"><span class="text-warning">Prestige</span>City</a>  -->
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
